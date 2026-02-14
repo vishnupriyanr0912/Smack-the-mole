@@ -53,3 +53,10 @@ Join our community of developers creating universal apps.
 # Smack-the-mole
 An interactive React Native mini-game featuring animated mole pop-ups, score tracking, and a countdown timer for an engaging arcade experience.
 >>>>>>> 265e6e4777f64f6f360078255a615698176eed30
+## 📸 Screenshots
+
+### Gameplay
+![Gameplay](screenshots/gameplay.jpeg)
+
+### Game Over Screen
+![Game Over](screenshots/gameover.jpeg)
